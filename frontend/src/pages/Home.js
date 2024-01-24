@@ -1,8 +1,11 @@
 import React from 'react'
+import Hero from '../components/Hero'
 
 const Home = () => {
   return (
-    <div id='home' className='w-full h-screen flex items-center justify-center'>Home</div>
+  <div>
+    <Hero/>
+  </div>
   )
 }
 

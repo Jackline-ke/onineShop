@@ -2,7 +2,7 @@ import React from 'react'
 
 const Cart = () => {
   return (
-    <div id='cart' className='w-full h-screen flex items-center justify-center'>Cart</div>
+    <div id='cart' className='cart w-full h-screen flex items-center justify-center'>Cart</div>
   )
 }
 

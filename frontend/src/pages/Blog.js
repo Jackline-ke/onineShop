@@ -2,7 +2,7 @@ import React from 'react'
 
 const Blog = () => {
   return (
-    <div id='blog' className='w-full h-screen flex items-center justify-center'>Blog</div>
+    <div id='blog' className='blog w-full h-screen flex items-center justify-center'>Blog</div>
   )
 }
 
